@@ -1,0 +1,1 @@
+// ekhane ekta havvy important jinish amake jante hobe seta hosce, ami jdi localstorage e kono man set korte cai tahole amake must seta 1st e JSON.stringyfy() e cinvert korte hobe, then seta localStorage e add korte hobe, asha kori tumi ontoto eta jano localStorage e data kivabe set korte hoy
